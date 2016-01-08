@@ -1,0 +1,8 @@
+/*.tsv
+/bin/
+/build/
+/src/main/resources/FASTAll.marcxml*
+/.classpath
+/.gradle/
+/.project
+/.settings/
